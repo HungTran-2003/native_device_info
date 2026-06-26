@@ -1,4 +1,4 @@
-package com.example.native_device_info
+package dev.hungtq.native_device_info
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.plugin.common.MethodCall

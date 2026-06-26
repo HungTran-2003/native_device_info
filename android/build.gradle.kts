@@ -1,4 +1,4 @@
-group = "com.example.native_device_info"
+group = "dev.hungtq.native_device_info"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -26,7 +26,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.native_device_info"
+    namespace = "dev.hungtq.native_device_info"
 
     compileSdk = 36
 

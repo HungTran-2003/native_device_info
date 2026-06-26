@@ -1,8 +1,8 @@
 name: native_device_info
 description: A Flutter plugin to get native platform version using Method Channel.
 version: 1.0.0
-# homepage: https://github.com/yourusername/native_device_info
-# repository: https://github.com/yourusername/native_device_info
+# homepage: https://github.com/HungTran-2003/native_device_info
+repository: https://github.com/HungTran-2003/native_device_info
 
 environment:
   sdk: ^3.12.0
@@ -36,7 +36,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.native_device_info
+        package: dev.hungtq.native_device_info
         pluginClass: NativeDeviceInfoPlugin
       ios:
         pluginClass: NativeDeviceInfoPlugin
