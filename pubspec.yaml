@@ -1,4 +1,4 @@
-name: native_device_info
+name: hungtq_native_device_info
 description: A Flutter plugin to get native platform version using Method Channel.
 version: 1.0.0
 # homepage: https://github.com/HungTran-2003/native_device_info

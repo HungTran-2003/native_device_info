@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:native_device_info/native_device_info.dart';
+import 'package:hungtq_native_device_info/hungtq_native_device_info.dart';
 
 void main() {
   runApp(const MyApp());

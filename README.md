@@ -1,14 +1,14 @@
-# native_device_info
+# hungtq_native_device_info
 
 A Flutter plugin that demonstrates how to use Method Channel to get the native platform version (Android and iOS).
 
 ## Getting Started
 
-To use this plugin, add `native_device_info` as a dependency in your `pubspec.yaml` file.
+To use this plugin, add `hungtq_native_device_info` as a dependency in your `pubspec.yaml` file.
 
 ```yaml
 dependencies:
-  native_device_info: ^1.0.0
+  hungtq_native_device_info: ^1.0.0
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ dependencies:
 Import the package and call `getPlatformVersion`:
 
 ```dart
-import 'package:native_device_info/native_device_info.dart';
+import 'package:hungtq_native_device_info/hungtq_native_device_info.dart';
 
 final nativeDeviceInfo = NativeDeviceInfo();
 String? platformVersion = await nativeDeviceInfo.getPlatformVersion();

@@ -17,12 +17,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  native_device_info:
-    # When depending on this package from a real application you should use:
-    #   native_device_info: ^x.y.z
-    # See https://dart.dev/tools/pub/dependencies#version-constraints
-    # The example app is bundled with the plugin so we use a path dependency on
-    # the parent directory to use the current plugin's version.
+  hungtq_native_device_info:
     path: ../
 
   # The following adds the Cupertino Icons font to your application.

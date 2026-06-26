@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:native_device_info/native_device_info.dart';
-import 'package:native_device_info/native_device_info_platform_interface.dart';
-import 'package:native_device_info/native_device_info_method_channel.dart';
+import 'package:hungtq_native_device_info/hungtq_native_device_info.dart';
+import 'package:hungtq_native_device_info/native_device_info_platform_interface.dart';
+import 'package:hungtq_native_device_info/native_device_info_method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 class MockNativeDeviceInfoPlatform
